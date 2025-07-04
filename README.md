@@ -102,3 +102,5 @@ PGP encryption is a critical skill for anonymous communication.
 
 Anonymous dark web shopping is possible with the right tools, knowledge, and practices. By following these guidelines, you can protect your privacy, minimize risks, and navigate the dark web securely. Always stay vigilant, verify information, and prioritize your anonymity.
 Plase contribute and add stars to this repo.
+
+Update:  04.07.2025
